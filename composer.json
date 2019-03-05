@@ -52,7 +52,7 @@
         "illuminate/database": "~5.8.0",
         "illuminate/support": "~5.8.0",
         "kalnoy/nestedset": "^4.3.0",
-        "rinvex/laravel-cacheable": "dev-master",
+        "sascha-schieferdecker/laravel-cacheable": "dev-master",
         "rinvex/laravel-support": "^2.0.0",
         "spatie/laravel-sluggable": "^2.1.0",
         "spatie/laravel-translatable": "^3.1.0",
