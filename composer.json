@@ -40,13 +40,19 @@
             "homepage": "https://github.com/rinvex/laravel-categories/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sascha-schieferdecker/laravel-cacheable"
+        }
+    ],
     "require": {
         "php": "^7.2.0",
         "illuminate/console": "~5.8.0",
         "illuminate/database": "~5.8.0",
         "illuminate/support": "~5.8.0",
         "kalnoy/nestedset": "^4.3.0",
-        "rinvex/laravel-cacheable": "^2.0.0",
+        "rinvex/laravel-cacheable": "dev-master",
         "rinvex/laravel-support": "^2.0.0",
         "spatie/laravel-sluggable": "^2.1.0",
         "spatie/laravel-translatable": "^3.1.0",
